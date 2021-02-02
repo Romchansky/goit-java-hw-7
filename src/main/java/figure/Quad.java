@@ -6,6 +6,5 @@ public class Quad extends Shape {
         super(name);
     }
 
-
 }
 

@@ -6,7 +6,6 @@ public class Trapezium extends Shape {
         super(name);
     }
 
-
 }
 
 
